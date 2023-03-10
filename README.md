@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohityadavsk&label=Profile%20views&color=0e75b6&style=flat" alt="rohityadavsk" /> </p>
 
-- 🌱 I’m currently learning **Python, SQL, Databricks**
+- 🌱 I’m currently working on **Python, SQL, Databricks**
 
 - 📫 How to reach me **rohityadavsk@gmail.com**
 
